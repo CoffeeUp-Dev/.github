@@ -52,7 +52,3 @@ Thank you to the talented individuals who have contributed to this project:
 
 - Arthur França: [GitHub](https://github.com/engArthurFranca)
 - Lucas Menchon: [GitHub](https://github.com/lucasmenchon)
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
