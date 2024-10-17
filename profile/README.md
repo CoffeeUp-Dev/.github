@@ -1,10 +1,10 @@
-# cafeinado.dev
+# CoffeeUp
 
 Welcome to CoffeeUp GitHub repository! We are a group of talented developers working together to improve sites and offer freelance web development services to other companies.
 
 ## About Us
 
-At cafeinado.dev, we combine our passion for coding and design to deliver high-quality web solutions. With a focus on professionalism and creativity, we strive to create visually appealing and functional websites that meet our clients' needs.
+At CoffeeUp, we combine our passion for coding and design to deliver high-quality web solutions. With a focus on professionalism and creativity, we strive to create visually appealing and functional websites that meet our clients' needs.
 
 ## Services
 
