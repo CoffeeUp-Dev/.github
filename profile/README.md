@@ -1,6 +1,6 @@
 # cafeinado.dev
 
-Welcome to cafeinado.dev's GitHub repository! We are a group of talented developers working together to improve sites and offer freelance web development services to other companies.
+Welcome to CoffeeUp GitHub repository! We are a group of talented developers working together to improve sites and offer freelance web development services to other companies.
 
 ## About Us
 
@@ -40,8 +40,8 @@ We believe in the power of collaboration and teamwork. By working together, we l
 
 If you have any questions or would like to discuss a potential project, you can contact us at:
 
-- Email: [contact@cafeinado.dev](mailto:contact@cafeinado.dev)
-- Website: [www.cafeinado.dev](https://www.cafeinado.dev)
+- Email: [contact@coffeeup.dev](mailto:contact@coffeeup.dev)
+- Website: [www.coffeeup.dev](https://www.coffeeup.dev)
 <!-- - LinkedIn: [cafeinado.dev](https://www.linkedin.com/company/cafeinado.dev) -->
 
 We look forward to hearing from you!
