@@ -1,6 +1,6 @@
 # CoffeeUp
 
-Welcome to CoffeeUp GitHub repository! We are a group of talented developers working together to improve sites and offer freelance web development services to other companies.
+Welcome to CoffeeUp GitHub repository! We are a group of talented developers working together to improve sites and offer web development services to other companies.
 
 ## About Us
 
