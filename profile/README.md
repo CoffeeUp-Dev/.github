@@ -42,6 +42,5 @@ If you have any questions or would like to discuss a potential project, you can 
 
 - Email: [contact@coffeeup.dev](mailto:contact@coffeeup.dev)
 - Website: [www.coffeeup.dev](https://www.coffeeup.dev)
-- LinkedIn: [coffeeup.dev](https://www.linkedin.com/company/coffeeup-dev)
 
 We look forward to hearing from you!
