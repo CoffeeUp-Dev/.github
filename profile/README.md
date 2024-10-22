@@ -42,13 +42,6 @@ If you have any questions or would like to discuss a potential project, you can 
 
 - Email: [contact@coffeeup.dev](mailto:contact@coffeeup.dev)
 - Website: [www.coffeeup.dev](https://www.coffeeup.dev)
-<!-- - LinkedIn: [cafeinado.dev](https://www.linkedin.com/company/cafeinado.dev) -->
+- LinkedIn: [coffeeup.dev](https://www.linkedin.com/company/coffeeup-dev) -->
 
 We look forward to hearing from you!
-
-## Contributors
-
-Thank you to the talented individuals who have contributed to this project:
-
-- Arthur França: [GitHub](https://github.com/engArthurFranca)
-- Lucas Menchon: [GitHub](https://github.com/lucasmenchon)
