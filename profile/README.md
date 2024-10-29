@@ -25,10 +25,9 @@ Our team is skilled in various technologies and frameworks, including:
 
 - Python, C#, JavaScript, TypeScript
 - Vue, Angular, React
-- HTML, CSS
 - ASP.NET, Django
-- SQL
-- Bootstrap, Tailwind
+- SQL, NoSQL
+- HTML, Bootstrap, Tailwind, CSS
 - Git, GitHub
 - Azure, Oracle, AWS
 
